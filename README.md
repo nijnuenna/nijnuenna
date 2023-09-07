@@ -4,8 +4,10 @@
 **nijnuenna/nijnuenna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-*<a href="https://www.instagram.com/knowing_j1n/" target="_blank"><img src="https://img.shields.io/badge/knowing_j1n-011111?style=flat-square&logo=E4405F&logoColor=011111"/></a>
+<a href="https://www.instagram.com/knowing_j1n/" target="_blank"><img src="https://img.shields.io/badge/knowing_j1n-011111?style=flat-square&logo=E4405F&logoColor=011111"/></a>
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nijnuenna&show_icons=true&theme=radical)
 
 
 Here are some ideas to get you started:
