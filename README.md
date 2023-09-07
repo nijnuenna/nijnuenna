@@ -4,7 +4,7 @@
 **nijnuenna/nijnuenna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-<a href="https://www.instagram.com/knowing_j1n/" target="_blank"><img src="https://img.shields.io/badge/knowing_j1n-E4405F?style=flat-square&logo=E4405F&logoColor=로고색상"/></a>
+*<a href="https://www.instagram.com/knowing_j1n/" target="_blank"><img src="https://img.shields.io/badge/knowing_j1n-E4405F?style=flat-square&logo=E4405F&logoColor=로고색상"/></a>
 
 
 
