@@ -1,23 +1,16 @@
-### Hi there 👋
-
-<!--
-**nijnuenna/nijnuenna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-<a href="https://www.instagram.com/knowing_j1n/" target="_blank"><img src="https://img.shields.io/badge/knowing_j1n-011111?style=flat-square&logo=E4405F&logoColor=011111"/></a>
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=Rect&text=Welcome%!)
+</div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nijnuenna&show_icons=true&theme=radical)
 
+<a href="https://www.instagram.com/knowing_j1n/" target="_blank"><img src="https://img.shields.io/badge/knowing_j1n-cad4e0?style=flat-square&logo=E4405F&logoColor=e6e6fa"/></a>
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nijnuenna&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![nijnuenna's GitHub stats](https://github-readme-stats.vercel.app/api?username=nijnuenna&show_icons=true&theme=radical)
+
+</div>
