@@ -1,11 +1,11 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Rect&text=Welcome%!)
+  ![header](https://capsule-render.vercel.app/api?type=Rect&text=hello%!jeonghee%!)
 </div>
 
 
+<a href="https://www.instagram.com/knowing_j1n/" target="_blank"><img src="https://img.shields.io/badge/knowing_j1n-e08eb9style=social&logo=E4405F&logoColor=000000"/></a>
 
-<a href="https://www.instagram.com/knowing_j1n/" target="_blank"><img src="https://img.shields.io/badge/knowing_j1n-cad4e0?style=flat-square&logo=E4405F&logoColor=e6e6fa"/></a>
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
