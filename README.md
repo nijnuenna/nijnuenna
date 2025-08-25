@@ -9,8 +9,6 @@
 
 ## 📞 Contact 📞
 <div align="center">
-
-<a href="https://www.instagram.com/knowing_j1n/" target="_blank"><img src="https://img.shields.io/badge/knowing_j1n-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     <a href="mailto:ysung0119@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
